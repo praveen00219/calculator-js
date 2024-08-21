@@ -1,0 +1,106 @@
+/* body {
+  display: flex;
+  justify-content: center;
+} */
+
+.p-3 {
+  padding: 1px !important;
+}
+.mb-5 {
+  margin-bottom: 0px !important;
+}
+.navbar {
+  background-color: burlywood;
+}
+.navbar-brand {
+  font-size: 2.25rem;
+}
+.form-control {
+  height: fit-content;
+}
+.d-flex {
+  display: flex !important;
+  align-items: center;
+}
+
+.containt {
+  background-color: rgb(98 116 159);
+  margin: auto;
+  margin-top: 14px;
+  padding: 20px;
+  width: 510px;
+  border-radius: 30px;
+  border: 4px ridge;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 2px #942d2d;
+  border-radius: 50px;
+  background-color: rgb(137, 210, 210);
+  padding: 10px;
+  width: 370px;
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  margin: auto;
+}
+
+.displayInput {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+input {
+  border: 5px;
+  border-bottom-color: #020101;
+  border-radius: 5px;
+  height: 85px;
+  width: 445px;
+  font-size: 44px;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 30px;
+  width: 80px;
+
+  margin: 3px;
+  font-family: cursive;
+  font-size: xx-large;
+}
+.onOffSwitch {
+  background-color: rgb(100, 68, 130);
+  color: white;
+}
+.otherSwitch {
+  background-color: black;
+  color: white;
+}
+.enter {
+  background-color: brown;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.3;
+  background-color: rgb(59, 209, 39);
+  color: white;
+}
+
+button.raaj:hover {
+  opacity: 0.3;
+  background-color: rgb(237, 249, 13);
+  color: black;
+}
+.my-4 {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
