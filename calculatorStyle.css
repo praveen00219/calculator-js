@@ -28,7 +28,7 @@
   margin: auto;
   margin-top: 14px;
   padding: 20px;
-  width: 510px;
+  width: 415px;
   border-radius: 30px;
   border: 4px ridge;
 }
@@ -63,21 +63,22 @@ input {
   border-bottom-color: #020101;
   border-radius: 5px;
   height: 85px;
-  width: 445px;
+  width: 390px;
   font-size: 44px;
+  padding: 10px;
 }
 
 button {
   cursor: pointer;
   border-radius: 30px;
   width: 80px;
-
   margin: 3px;
   font-family: cursive;
   font-size: xx-large;
 }
 .onOffSwitch {
-  background-color: rgb(100, 68, 130);
+  background-color: brown;
+
   color: white;
 }
 .otherSwitch {
@@ -85,7 +86,7 @@ button {
   color: white;
 }
 .enter {
-  background-color: brown;
+  background-color: rgb(100, 68, 130);
   color: white;
 }
 
